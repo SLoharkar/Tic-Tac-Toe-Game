@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Game ⭕❌🎮
+# Tic-Tac-Toe Game 🐱🐭⭕❌🎮
 
 A simple and interactive Tic-Tac-Toe game implemented using HTML, CSS, and JavaScript. Play against a friend and see who can get three in a row!
 
