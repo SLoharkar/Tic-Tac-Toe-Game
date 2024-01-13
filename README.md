@@ -21,6 +21,13 @@ A simple and interactive Tic-Tac-Toe game implemented using HTML, CSS, and JavaS
 2. Two players take turns to click on the grid to place their 'Tom' or 'Jerry'.
 3. The game announces the winner or a draw when the game is over.
 
+## Installation 🛠️
+- Just, Clone this repository - 
+````bash 
+git clone https://github.com/SLoharkar/Tic-Tac-Toe-Game.git
+````
+- Run File Using Any Application Like Visual Studio Code
+
 ## Preview 🖼️
 
 
