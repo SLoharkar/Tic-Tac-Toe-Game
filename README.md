@@ -2,7 +2,7 @@
 
 A simple and interactive Tic-Tac-Toe game implemented using HTML, CSS, and JavaScript. Play against a friend and see who can get three in a row!
 
-  <img src="GitHub Files/Tic-Tac-Toe Game.gif" />
+<img src="GitHub Files/Tic-Tac-Toe Game.gif" />
 
 ## Features ✨
 
@@ -29,8 +29,6 @@ git clone https://github.com/SLoharkar/Tic-Tac-Toe-Game.git
 ````
 - Run File Using Any Application Like Visual Studio Code
 
-## Preview 🖼️
-
-
 ## Live Demo 🌐
 
+https://github.com/SLoharkar/Tic-Tac-Toe-Game/assets/68845746/fd28511a-4cde-4603-a5a6-afb84c819209
