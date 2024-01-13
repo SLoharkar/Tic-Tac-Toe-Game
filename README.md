@@ -2,6 +2,13 @@
 
 A simple and interactive Tic-Tac-Toe game implemented using HTML, CSS, and JavaScript. Play against a friend and see who can get three in a row!
 
+<details>
+  <img src="GitHub Files/1.png" />
+  <img src="GitHub Files/2.png" />
+  <img src="GitHub Files/3.png" />
+  <img src="GitHub Files/4.png" />
+</details>
+
 
 ## Features ✨
 
