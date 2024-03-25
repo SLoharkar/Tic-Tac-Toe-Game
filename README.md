@@ -18,7 +18,7 @@ A simple and interactive Tic-Tac-Toe game implemented using HTML, CSS, and JavaS
 
 ## How to Play 🕹️
 
-1. Open `Tic_Tac_Toe.html` in your web browser.
+1. Open `index.html` in your web browser.
 2. Two players take turns to click on the grid to place their 'Tom' or 'Jerry'.
 3. The game announces the winner or a draw when the game is over.
 
